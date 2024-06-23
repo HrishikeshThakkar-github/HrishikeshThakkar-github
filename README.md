@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hrishikesh Thakkar</h1>
 <h3 align="center">Detail-oriented web developer with strong analytical skills and excellent communication abilities. Proficient at uniting team members to achieve project milestones punctually.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrishikeshthakkar-github&label=Profile%20views&color=0e75b6&style=flat" alt="hrishikeshthakkar-github" /> </p>
 
@@ -8,6 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/_rishii_thakkar" target="blank"><img src="https://img.shields.io/twitter/follow/_rishii_thakkar?logo=twitter&style=for-the-badge" alt="_rishii_thakkar" /></a> </p>
 
+<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0">
 - 🌱 I’m currently learning **Data Structures and algorithms, React js**
 
 - 💬 Ask me about **Python, Data analysis, java, Springboot**
