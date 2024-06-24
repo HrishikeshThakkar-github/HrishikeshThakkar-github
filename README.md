@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hrishikesh Thakkar</h1>
-<h3 align="center">Detail-oriented web developer with strong analytical skills and excellent communication abilities. Proficient at uniting team members to achieve project milestones punctually.</h3>
+<h3 align="center">Passionate web developer with strong analytical skills</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrishikeshthakkar-github&label=Profile%20views&color=0e75b6&style=flat" alt="hrishikeshthakkar-github" /> </p>
 
